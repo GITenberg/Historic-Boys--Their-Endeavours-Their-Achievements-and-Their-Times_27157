@@ -1,0 +1,47 @@
+_repo: Historic-Boys--Their-Endeavours-Their-Achievements-and-Their-Times_27157
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Schönberg, John
+    alias: Schonberg, John
+    gutenberg_agent_id: '9891'
+    url: http://www.gutenberg.org/2009/agents/9891
+  - agent_name: Birch, Reginald Bathurst
+    aliases:
+    - Birch, Reginald Bathhurst
+    - Birch, Reginald B. (Reginald Bathurst)
+    birthdate: 1856
+    deathdate: 1943
+    gutenberg_agent_id: '26446'
+    url: http://www.gutenberg.org/2009/agents/26446
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Elbridge S. (Elbridge Streeter)
+    alias: Brooks, E. S. (Elbridge Streeter)
+    birthdate: 1846
+    deathdate: 1902
+    gutenberg_agent_id: '649'
+    url: http://www.gutenberg.org/2009/agents/649
+description: ''
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'CT'
+- !lcsh 'Biography -- Juvenile literature'
+- !lcsh 'Boys -- Biography'
+tableOfContents: Marcus of Rome -- Brian of Munster -- Olaf of Norway -- William of
+  Normandy -- Baldwin of Jerusalem -- Frederick of Hohenstaufen -- Harry of Monmouth
+  -- Giovanni of Florence -- Ixtlil' of Tezcuco -- Louis of Bourbon -- Charles of
+  Sweden -- Van Rensselaer of Rensselaerswyck.
+title: 'Historic Boys: Their Endeavours, Their Achievements, and Their Times'
+url: http://www.gutenberg.org/ebooks/27157
